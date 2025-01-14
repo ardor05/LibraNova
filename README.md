@@ -72,7 +72,7 @@ LibraNova is a revolutionary Web3-based digital bookstore that redefines how e-b
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LibraNova.git
+   git clone https://github.com/ardor05/LibraNova.git
    ```
 2. Navigate to the project directory:
    ```bash
