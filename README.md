@@ -62,6 +62,11 @@ LibraNova is a revolutionary Web3-based digital bookstore that redefines how e-b
 
 ---
 
+## Live Demo
+Explore LibraNova now: **[https://libra-nova.vercel.app/](https://libra-nova.vercel.app/)**
+
+---
+
 ## Development Setup
 
 ### Prerequisites
@@ -69,35 +74,6 @@ LibraNova is a revolutionary Web3-based digital bookstore that redefines how e-b
 2. npm or yarn
 3. Metamask or other crypto wallet
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ardor05/LibraNova.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd LibraNova
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-### Running the Application
-1. Start the development server:
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
-2. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-## Deployment
-To deploy LibraNova, use any suitable hosting platform, such as Vercel, Netlify, or AWS. Ensure your blockchain integration endpoints and iExec framework configurations are set up for production.
 
 ---
 
