@@ -1,3 +1,6 @@
+
+![Book Cover](https://github.com/user-attachments/assets/43548cf9-87ce-47da-a685-48ac75b494c6)
+
 # LibraNova: The Web3 Digital Bookstore
 
 LibraNova is a revolutionary Web3-based digital bookstore that redefines how e-books, magazines, and other digital content are distributed, purchased, and owned. Empowering authors and publishers with blockchain-powered solutions, LibraNova ensures secure, decentralized, and tamper-proof content sharing while enhancing the reader experience.
