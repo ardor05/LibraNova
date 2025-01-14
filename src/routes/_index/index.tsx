@@ -29,7 +29,7 @@ function Home() {
       <div className="mt-10 sm:mt-20">
         <div className="text-[#D9D9D9]">Welcome All The Bookworms To📚🐛</div>
         <h1 className="mt-1 text-balance font-anybody text-2xl font-[750] sm:text-5xl">
-          LibraNova: The Web3 Digital Boostore
+          LibraNova: The Web3 Digital Bookstore
         </h1>
         <AllContent />
       </div>
