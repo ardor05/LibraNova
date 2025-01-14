@@ -113,12 +113,6 @@ We welcome contributions! Please fork the repository, make changes, and submit a
 
 ---
 
-## License
-LibraNova is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
-- **iExec**: For the DataProtector Sharing framework.
-- **Ethereum Community**: For powering token-based transactions.
+- **iExec**: For the DataProtector Sharing framework & RLC tokens.
 - **React**: For the robust UI framework.
